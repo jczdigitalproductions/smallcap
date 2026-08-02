@@ -1,0 +1,6 @@
+## the following packages
+fastmcp
+yfinance
+pandas
+lxml
+google-genai
